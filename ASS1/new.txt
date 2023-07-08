@@ -1,0 +1,4 @@
+sky is green
+sea is green
+green is green
+red is red
